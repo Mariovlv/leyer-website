@@ -12,8 +12,8 @@ function Testimonials() {
             <div className="md:border-r-2 md:pr-6">
               <blockquote className="mt-4 md:mt-0">
                 <div className="text-xl font-medium text-red-600">
-                  "Siempre es bueno tener tienda para todas las personas, un
-                  buen aporte aquí en puebla."
+                  &ldquo;Siempre es bueno tener tienda para todas las personas,
+                  un buen aporte aquí en puebla.&rdquo;
                 </div>
                 <div className="mt-4">
                   <p className="text-base font-semibold text-gray-900">
@@ -25,8 +25,8 @@ function Testimonials() {
             <div className="mt-10 md:mt-0">
               <blockquote className="mt-4 md:mt-0">
                 <div className="text-xl font-medium text-red-600">
-                  "Atención profesional y amable sin fines de lucro. Aprendi
-                  como funciona el ábaco y la tabla matemática."
+                  &ldquo;Atención profesional y amable sin fines de lucro.
+                  Aprendi como funciona el ábaco y la tabla matemática.&rdquo;
                 </div>
                 <div className="mt-4">
                   <p className="text-base font-semibold text-gray-900">Mat S</p>
@@ -38,8 +38,8 @@ function Testimonials() {
             <div className="md:border-r-2 md:pr-6">
               <blockquote className="mt-4 md:mt-0">
                 <div className="text-xl font-medium text-red-600">
-                  "Excelente atención y cuentan con tienda de material para
-                  ciegos"
+                  &ldquo;Excelente atención y cuentan con tienda de material
+                  para ciegos&rdquo;
                 </div>
                 <div className="mt-4">
                   <p className="text-base font-semibold text-gray-900">

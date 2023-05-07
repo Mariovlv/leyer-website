@@ -10,7 +10,11 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Epilogue&family=Noto+Sans+JP&display=swap"
           rel="stylesheet"
         />
-        <script src="https://kit.fontawesome.com/93553a11f5.js"></script>
+        <script
+          async
+          src="https://kit.fontawesome.com/93553a11f5.js"
+          crossOrigin="anonymous"
+        ></script>
       </Head>
 
       <link rel="icon" href="/favicon.ico" />

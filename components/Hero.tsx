@@ -12,7 +12,7 @@ export default function Hero() {
         <h1 className="font-noto md:text-lg text-base text-gray-900">
           Somos una institución sin fines de lucro que ofrece una amplia
           variedad de servicios a bebés, jóvenes y adultos. ¡Únete a nuestra
-          comunidad y descubre cómo podemos ayudarte!"
+          comunidad y descubre cómo podemos ayudarte&quot;!
         </h1>
         <button className="bg-red-600 p-3 text-white rounded-xl font-noto text-sm my-5">
           Cómo llegar
