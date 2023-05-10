@@ -13,11 +13,6 @@ export default function Header() {
       </h1>
       <ul className="sm:flex hidden flex-row font-noto justify-center">
         <li>
-          <h1 className="px-4 cursor-pointer text-gray-700 hover:text-gray-900">
-            Quiénes somos
-          </h1>
-        </li>
-        <li>
           <a
             href="#testimonials"
             className="px-4 cursor-pointer text-gray-700 hover:text-gray-900"
