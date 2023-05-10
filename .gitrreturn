@@ -1,0 +1,15 @@
+Revert "remove Card component"
+
+This reverts commit 24931e1aede4d0917112a0cf62c76d94e71a3221.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: mariovlv <mariovlv@pop-os.localdomain>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   components/Card.tsx
+#
